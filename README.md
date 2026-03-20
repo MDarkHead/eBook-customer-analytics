@@ -65,16 +65,16 @@ ebook-customer-analytics/
 ```
 
 ## Roadmap
-Phase 0: Project Framing
-Phase 1: Data Cleaning
-Phase 2: EDA + Insights (write insights.md)
-Phase 3: Dython (key drivers)
-Phase 4: Tableau Dashboard (storytelling)
-Phase 5: Feature Engineering
-Phase 6: Regression Model
-Phase 7: Classification Model
-Phase 8: Business Recommendations
-Phase 9: Portfolio Packaging (GitHub + Slides + Tableau + PDF)
+- Phase 0: Project Framing
+- Phase 1: Data Cleaning
+- Phase 2: EDA + Insights (write insights.md)
+- Phase 3: Dython (key drivers)
+- Phase 4: Tableau Dashboard (storytelling)
+- Phase 5: Feature Engineering
+- Phase 6: Regression Model
+- Phase 7: Classification Model
+- Phase 8: Business Recommendations
+- Phase 9: Portfolio Packaging (GitHub + Slides + Tableau + PDF)
 
 ## Disclaimer
 This project is based on a simulated dataset provided as part of a data science training program. Any references to real-world entities are for illustrative purposes only.
