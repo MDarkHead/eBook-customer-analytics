@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data files (optional depending on size)
+data/raw/*
+data/processed/*
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Environment
+.env
+venv/
