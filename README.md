@@ -66,7 +66,7 @@ ebook-customer-analytics/
 
 ## Roadmap
 - Phase 0: Project Framing ✅
-- Phase 1: Data Cleaning
+- Phase 1: Data Cleaning ✅
 - Phase 2: EDA + Insights (write insights.md)
 - Phase 3: Dython (key drivers)
 - Phase 4: Tableau Dashboard (storytelling)
