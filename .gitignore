@@ -15,3 +15,6 @@ data/processed/*
 # Environment
 .env
 venv/
+
+venv310/
+logs.log
